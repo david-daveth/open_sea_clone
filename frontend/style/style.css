@@ -99,7 +99,7 @@ body {
     display: none;
   }
 }
-@media (max-width: 800px) {
+@media (min-width: 400px) {
   body {
     overflow-y: hidden;
   }
